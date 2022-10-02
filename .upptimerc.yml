@@ -17,8 +17,8 @@ status-website:
   # logoUrl: https://landit.pe/images/Recurso-2Logo-LANDIT.svg
   favicon: https://landit.pe/images/favicon.png
   name: Landit - Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**About This Site**"
+  introMessage: This site provides real-time information on the availability of our cloud services. Rocket is the production server where we maintain applications that require high availability and resources on demand. Sandbox is the experimentation server where we run new software.
   navbar:
     - title: Status
       href: /
