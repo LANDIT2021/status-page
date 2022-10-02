@@ -14,7 +14,7 @@ status-website:
   cname: status.landit.pe
   theme: night
   # baseUrl: /your-repo-name
-  logoUrl: https://landit.pe/images/Recurso-2Logo-LANDIT.svg
+  # logoUrl: https://landit.pe/images/Recurso-2Logo-LANDIT.svg
   favicon: https://landit.pe/images/favicon.png
   name: Landit - Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
