@@ -4,7 +4,7 @@
     "url": "http://rocket.landit.pe",
     "icon": "https://icons.duckduckgo.com/ip3/rocket.landit.pe.ico",
     "slug": "rocket-server-prod-ny-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 173,
-    "timeWeek": 187,
+    "timeWeek": 181,
     "timeMonth": 161,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-28": 0
+    }
   },
   {
     "name": "Cloud Server (Prod - NY1)",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 227,
-    "timeWeek": 234,
-    "timeMonth": 236,
+    "timeDay": 249,
+    "timeWeek": 228,
+    "timeMonth": 237,
     "timeYear": 257,
     "dailyMinutesDown": {}
   }
